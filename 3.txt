@@ -4,4 +4,3 @@ I have to add first
 I have to commit next
 Adding line here
 this is to test pull option 
-pull will fetch and merge in local form remote
